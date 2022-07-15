@@ -12,4 +12,4 @@ Tenho que estudar mais sobre o assunto. Já completei todos os curso do modulo A
 Ainda surgi duvidas. 
 Para melhorar mais é preciso a parte das praticas.
 
-[Link Trabalho Projeto Desafio Typecript]( https://github.com/LucianoFelinto/Desafio-de-projeto-ecomerce/tree/master )
+[Link Trabalho Projeto Desafio E-comerce]( https://github.com/LucianoFelinto/Desafio-de-projeto-ecomerce/tree/master )
