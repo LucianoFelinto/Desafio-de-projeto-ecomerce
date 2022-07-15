@@ -1,0 +1,22 @@
+
+ <div class="card border-primary   mb-5" style="max-width: 18rem;">
+
+  <div class="card-header " style="background-color: dodgerblue;"><h6 class="card-title text-bg-primary">{{ livro.name }}</h6></div>
+
+  <div class="card-body">
+    <div class="card border-light mb-3" style="align-items: center;">
+      <img  class="bd-placeholder-img card-img" style="max-width: 18rem; height: 15rem;" src='{{ "assets/images/" + livro.img + ".jpg" }}'>
+    </div>
+    <p class="card-text m-0">Categoria: {{ livro.category }}</p>
+    <p class="card-text m-0">Quantidade: {{ livro.quantity }}</p>
+    <h6 class="card-text  m-0">Preço: {{ livro.price | currency:'BRL' }}</h6>
+
+    <div class="btn-group">
+      <button type="button" class="btn btn-sm btn-primary my-2">Comprar</button>
+      <button type="button" class="btn btn-sm btn-outline-primary my-2 mx-2">Detalhes</button>
+    </div>
+  </div>
+</div>
+
+
+
