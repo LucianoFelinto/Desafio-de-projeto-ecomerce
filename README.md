@@ -7,7 +7,7 @@ Usando as ferramentas do Angular, foi desenvolvido uma pagina basico de E-comerc
 
 #### Comentario:
 Nesse projeto não foi muito elaborado, devido o tempo para dedicar o desenvolvimento do projeto.
-Trabalho o durante o dia e, o tempo para estudo é a noite.
+Trabalho durante o dia e, o tempo para estudo é a noite.
 Tenho que estudar mais sobre o assunto. Já completei todos os curso do modulo Agular da DIO.
 Ainda surgi duvidas. 
 Para melhorar mais é preciso a parte das praticas.
